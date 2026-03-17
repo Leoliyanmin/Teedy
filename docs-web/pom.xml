@@ -174,7 +174,7 @@
             </includes>
           </resource>
         </resources>
-
+        <!--这里默认是开发环境-->
         <plugins>
           <plugin>
             <groupId>org.eclipse.jetty</groupId>
@@ -182,10 +182,13 @@
             <configuration>
               <systemProperties>
                 <application.mode>dev</application.mode>
-                <docs.home>../data/docs</docs.home>
+                <docs.home>../docs-web</docs.home>
               </systemProperties>
               <webApp>
-                <contextPath>/docs-web</contextPath>
+                <contextPath>/</contextPath>
+                <welcomeFiles>
+                  <welcomeFile>index.html</welcomeFile>
+                </welcomeFiles>
                 <overrideDescriptor>${project.basedir}/src/dev/main/webapp/web-override.xml</overrideDescriptor>
               </webApp>
             </configuration>
