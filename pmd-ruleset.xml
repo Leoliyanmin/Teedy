@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<ruleset name="Customized Rules for Teedy"
+    xmlns="http://pmd.sourceforge.net/ruleset/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 https://pmd.sourceforge.io/ruleset_2_0_0.xsd">
+
+    <description>
+        Customized PMD ruleset for Teedy project.
+        This ruleset includes rules corresponding to the 5 software metrics:
+        1. Lines of Code (LoC) - measured via NCSS (Non-Commenting Source Statements)
+        2. Cyclomatic Complexity (CC)
+        3. Weighted Methods per Class (WMC)
+        4. Coupling Between Objects (CBO)
+        5. Lack of Cohesion in Methods (LCOM) - via GodClass/TCC
+    </description>
+
+    <!-- 1. Lines of Code (LoC) - NcssCount measures actual statements -->
+    <rule ref="category/java/design.xml/NcssCount">
+        <properties>
+            <property name="methodReportLevel" value="40"/>
+            <property name="classReportLevel" value="500"/>
+        </properties>
+    </rule>
+
+    <!-- 2. Cyclomatic Complexity (CC) - measures decision points in code -->
+    <rule ref="category/java/design.xml/CyclomaticComplexity">
+        <properties>
+            <property name="methodReportLevel" value="10"/>
+            <property name="classReportLevel" value="80"/>
+        </properties>
+    </rule>
+
+    <!-- 3. Weighted Methods per Class (WMC) - TooManyMethods measures method count -->
+    <rule ref="category/java/design.xml/TooManyMethods">
+        <properties>
+            <property name="maxmethods" value="10"/>
+        </properties>
+    </rule>
+
+    <!-- 4. Coupling Between Objects (CBO) - measures class dependencies -->
+    <rule ref="category/java/design.xml/CouplingBetweenObjects">
+        <properties>
+            <property name="threshold" value="20"/>
+        </properties>
+    </rule>
+
+    <!-- 5. Lack of Cohesion in Methods (LCOM) - GodClass uses TCC metric -->
+    <!-- TCC is the inverse of LCOM - low TCC indicates low cohesion -->
+    <rule ref="category/java/design.xml/GodClass" />
+
+</ruleset>
