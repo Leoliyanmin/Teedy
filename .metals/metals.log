@@ -1,0 +1,933 @@
+2026.03.10 10:55:44 INFO  Started: Metals version 1.6.6 in folders '/Users/yanmin/Documents/SE Lab/Teedy' for client Visual Studio Code 1.109.5.
+2026.03.10 10:55:44 INFO  Memory monitor started
+2026.03.10 10:55:45 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.10 10:55:45 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:55:48 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:55:48 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:55:48 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:55:50 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:03 WARN  Build server is not auto-connectable.
+2026.03.10 10:56:03 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java
+2026.03.10 10:56:03 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:03 WARN  Running javac-semanticdb failed for file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Output:
+
+2026.03.10 10:56:04 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:20 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:20 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:20 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java
+2026.03.10 10:56:20 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:20 WARN  Running javac-semanticdb failed for file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Output:
+
+2026.03.10 10:56:20 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:22 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:22 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:23 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:30 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:33 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:37 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:40 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 10:56:43 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:03:24 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java
+2026.03.10 11:03:24 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:03:24 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:03:24 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:03:24 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:03:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:03:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:03:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:03:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:03:49 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:03:49 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:03:51 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:03:51 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:03:51 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:03:51 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:03:52 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:03:52 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:03:52 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:03:52 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:03:53 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java
+2026.03.10 11:03:53 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:03:53 WARN  Running javac-semanticdb failed for file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Output:
+
+2026.03.10 11:03:53 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:03:53 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:04:03 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:04:03 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:04:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:04:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.10 11:04:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+Mar 10, 2026 11:14:19 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.10 13:59:42 INFO  Shutting down server
+2026.03.10 13:59:42 INFO  Memory monitor stopped
+2026.03.10 13:59:42 INFO  shutting down Metals
+2026.03.10 13:59:42 INFO  Exiting server
+2026.03.17 10:12:20 INFO  Started: Metals version 1.6.6 in folders '/Users/yanmin/Documents/SE Lab/Teedy' for client Visual Studio Code 1.111.0.
+2026.03.17 10:12:20 INFO  Memory monitor started
+2026.03.17 10:12:20 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.17 10:12:21 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/docs/core/constant/Constants.java. Using fallback presentation compiler.
+2026.03.17 10:12:21 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/docs/core/constant/Constants.java. Using fallback presentation compiler.
+2026.03.17 10:12:22 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/docs/core/constant/Constants.java. Using fallback presentation compiler.
+Mar 17, 2026 10:12:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Mar 17, 2026 10:12:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2026.03.17 10:12:26 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 10:12:26 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+Mar 17, 2026 10:12:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2026.03.17 10:12:26 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 10:12:26 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 10:12:26 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 10:12:27 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 10:12:59 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:12:59 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:12:59 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:12:59 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:12:59 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:04 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:04 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:04 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:04 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:04 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:05 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:05 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:05 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:05 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:05 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:05 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:10 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:14 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:14 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:17 WARN  Running javac-semanticdb failed for file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Output:
+
+2026.03.17 10:13:18 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:18 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:18 INFO  empty definition using pc, found symbol in pc: _empty_/IPrincipal# (full report at: "/Users/yanmin/Documents/SE Lab/Teedy/.metals/.reports/metals-full/2026-03-17/r_empty-definition_10-13-18-128.md")
+2026.03.17 10:13:18 INFO  Created report: Optional[file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java]
+2026.03.17 10:13:18 INFO  empty definition using pc, found symbol in pc: _empty_/IPrincipal# (full report at: "/Users/yanmin/Documents/SE Lab/Teedy/.metals/.reports/metals-full/2026-03-17/r_empty-definition_10-13-18-128.md")
+2026.03.17 10:13:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/IPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:18 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/IPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/IPrincipal.java. Using fallback presentation compiler.
+Mar 17, 2026 10:13:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 85
+2026.03.17 10:13:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/IPrincipal.java. Using fallback presentation compiler.
+Mar 17, 2026 10:13:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 89
+2026.03.17 10:13:22 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:22 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java
+2026.03.17 10:13:22 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:22 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:22 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:22 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:22 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:25 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:25 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:25 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:26 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:26 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:26 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:26 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:27 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:29 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:29 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:29 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:29 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:29 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:29 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:29 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:29 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:30 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:30 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:30 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:30 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:30 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:30 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:30 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:31 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:31 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:31 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:31 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:31 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:31 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:31 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:31 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:31 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:32 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:31 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:32 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:32 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:32 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:32 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:32 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:32 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:33 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:33 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:33 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:33 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:33 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:33 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:34 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:33 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:33 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:34 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:34 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:34 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:42 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:42 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java
+2026.03.17 10:13:42 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:44 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:44 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java
+2026.03.17 10:13:44 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:45 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:45 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java
+2026.03.17 10:13:45 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:47 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:13:47 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java
+2026.03.17 10:13:47 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:02 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:02 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java
+2026.03.17 10:14:02 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:02 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:04 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:04 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:04 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:05 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:05 WARN  Running javac-semanticdb failed for file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Output:
+
+2026.03.17 10:14:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:06 INFO  Created report: Optional[file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java]
+2026.03.17 10:14:06 INFO  empty definition using pc, found symbol in pc: _empty_/Sets#newHashSet# (full report at: "/Users/yanmin/Documents/SE Lab/Teedy/.metals/.reports/metals-full/2026-03-17/r_empty-definition_10-14-06-057.md")
+2026.03.17 10:14:07 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:07 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java
+2026.03.17 10:14:07 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:07 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:07 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.17 10:14:07 INFO  no build target found for /com/google/common/collect/Sets.java. Using fallback presentation compiler.
+2026.03.17 10:14:07 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+Mar 17, 2026 10:14:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 265
+2026.03.17 10:14:07 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:10 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:10 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:10 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:10 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:10 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:10 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:10 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:10 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:10 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:10 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:10 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:10 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:11 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:11 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:11 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:11 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:11 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:11 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:11 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:11 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:12 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:11 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:12 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:12 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:12 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:12 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:12 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:12 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:12 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:12 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:12 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:14 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:15 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:15 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:15 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:15 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:15 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:15 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:15 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:15 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:15 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:15 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:16 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:16 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:16 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:16 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:16 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:16 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:18 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:18 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:18 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:18 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:18 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:18 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:18 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:20 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java
+2026.03.17 10:14:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:20 WARN  Running javac-semanticdb failed for file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Output:
+
+2026.03.17 10:14:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:21 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:21 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:21 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:21 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:21 INFO  Created report: Optional[file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java]
+2026.03.17 10:14:21 INFO  Could not find any locations for Some(SymbolOccurrence(Some(Range(12,13,12,31)),com/sismics/security/AnonymousPrincipal#,DEFINITION)), printing index state (full report at: "/Users/yanmin/Documents/SE Lab/Teedy/.metals/.reports/metals-full/2026-03-17/r_empty-references_10-14-21-773.md")
+2026.03.17 10:14:21 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:21 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:21 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:21 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:21 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:14:24 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:24 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:24 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:25 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:25 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:25 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:25 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:25 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:26 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:26 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:31 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:31 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:31 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:33 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:33 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:37 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:37 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:39 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:39 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:39 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:41 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:41 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:43 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:43 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:43 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:47 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:51 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:51 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:51 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:51 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:51 WARN  Running javac-semanticdb failed for file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Output:
+
+2026.03.17 10:14:52 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:52 INFO  Created report: Optional[file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java]
+2026.03.17 10:14:52 INFO  empty definition using pc, found symbol in pc: com/sismics/security/AnonymousPrincipal# (full report at: "/Users/yanmin/Documents/SE Lab/Teedy/.metals/.reports/metals-full/2026-03-17/r_empty-definition_10-14-52-266.md")
+2026.03.17 10:14:51 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:54 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:54 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:54 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:14:58 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:11 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:11 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:11 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:11 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:11 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+Mar 17, 2026 10:15:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 815
+2026.03.17 10:15:15 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:15 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/docs/core/constant/ConfigType.java. Using fallback presentation compiler.
+2026.03.17 10:15:16 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:16 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:16 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:17 INFO  Created report: Optional[file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java]
+2026.03.17 10:15:17 INFO  Could not find any locations for Some(SymbolOccurrence(Some(Range(107,17,107,36)),com/sismics/util/filter/SecurityFilter#injectAnonymousUser().,DEFINITION)), printing index state (full report at: "/Users/yanmin/Documents/SE Lab/Teedy/.metals/.reports/metals-full/2026-03-17/r_empty-references_10-15-17-288.md")
+2026.03.17 10:15:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/docs/core/constant/Constants.java. Using fallback presentation compiler.
+2026.03.17 10:15:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:21 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:21 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:21 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:26 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 10:15:26 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:26 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:26 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:26 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:27 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:27 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:27 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:27 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:29 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:29 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:29 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:29 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:30 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:30 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:31 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:32 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:32 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:32 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:32 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:33 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:33 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:33 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:33 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:34 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:34 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:34 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:34 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:34 INFO  Created report: Optional[file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java]
+2026.03.17 10:15:34 INFO  empty definition using pc, found symbol in pc: _empty_/HttpServletRequest#setAttribute# (full report at: "/Users/yanmin/Documents/SE Lab/Teedy/.metals/.reports/metals-full/2026-03-17/r_empty-definition_10-15-34-781.md")
+2026.03.17 10:15:34 INFO  no build target found for /jakarta/servlet/ServletRequest.java. Using fallback presentation compiler.
+2026.03.17 10:15:34 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:35 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:35 INFO  empty definition using pc, found symbol in pc: _empty_/HttpServletRequest#setAttribute# (full report at: "/Users/yanmin/Documents/SE Lab/Teedy/.metals/.reports/metals-full/2026-03-17/r_empty-definition_10-15-34-781.md")
+2026.03.17 10:15:34 INFO  no build target found for /jakarta/servlet/ServletRequest.java. Using fallback presentation compiler.
+2026.03.17 10:15:34 INFO  no build target found for /jakarta/servlet/ServletRequest.java. Using fallback presentation compiler.
+2026.03.17 10:15:35 INFO  no build target found for /jakarta/servlet/ServletRequest.java. Using fallback presentation compiler.
+2026.03.17 10:15:35 INFO  no build target found for /jakarta/servlet/ServletRequest.java. Using fallback presentation compiler.
+2026.03.17 10:15:42 INFO  no build target found for /jakarta/servlet/ServletRequest.java. Using fallback presentation compiler.
+2026.03.17 10:15:42 INFO  no build target found for /jakarta/servlet/ServletRequest.java. Using fallback presentation compiler.
+2026.03.17 10:15:42 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:43 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java
+2026.03.17 10:15:43 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:43 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:43 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:43 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:43 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:43 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:43 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:44 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:44 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:44 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:46 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:46 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:46 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:46 INFO  Created report: Optional[file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java]
+2026.03.17 10:15:46 INFO  empty definition using pc, found symbol in pc: _empty_/HttpServletRequest# (full report at: "/Users/yanmin/Documents/SE Lab/Teedy/.metals/.reports/metals-full/2026-03-17/r_empty-definition_10-15-46-416.md")
+2026.03.17 10:15:46 INFO  no build target found for /jakarta/servlet/http/HttpServletRequest.java. Using fallback presentation compiler.
+2026.03.17 10:15:46 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:46 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:46 INFO  empty definition using pc, found symbol in pc: _empty_/HttpServletRequest# (full report at: "/Users/yanmin/Documents/SE Lab/Teedy/.metals/.reports/metals-full/2026-03-17/r_empty-definition_10-15-46-416.md")
+2026.03.17 10:15:46 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:15:47 INFO  no build target found for /jakarta/servlet/http/HttpServletRequest.java. Using fallback presentation compiler.
+2026.03.17 10:15:52 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:15:52 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java
+2026.03.17 10:15:52 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:15:52 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:15:52 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:15:52 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:15:52 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:15:57 INFO  no build target found for /jakarta/servlet/http/HttpServletRequest.java. Using fallback presentation compiler.
+2026.03.17 10:16:00 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:16:00 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java
+2026.03.17 10:16:00 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:16:00 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:16:00 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:16:00 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:16:00 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:16:02 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:16:03 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:03 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java
+2026.03.17 10:16:03 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:03 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:03 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:03 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:03 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:03 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:04 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:04 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:04 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:04 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:07 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:07 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:08 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:08 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:08 INFO  Created report: Optional[file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java]
+2026.03.17 10:16:08 INFO  Could not find any locations for Some(SymbolOccurrence(Some(Range(62,19,62,26)),com/sismics/security/AnonymousPrincipal#isGuest().,DEFINITION)), printing index state (full report at: "/Users/yanmin/Documents/SE Lab/Teedy/.metals/.reports/metals-full/2026-03-17/r_empty-references_10-16-08-165.md")
+2026.03.17 10:16:08 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:08 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:08 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:08 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:09 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:16 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/ShareResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:16 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/ShareResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:16 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/ShareResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:16 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/ShareResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:16 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/ShareResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:18 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/IPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:16:24 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/ShareResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:24 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/ShareResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:24 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/ShareResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:26 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/ShareResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:27 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/ShareResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:29 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/ShareResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:30 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:30 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:30 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:30 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:30 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:32 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:32 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:32 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:32 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:38 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+Mar 17, 2026 10:16:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1077
+2026.03.17 10:16:38 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:38 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:38 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:41 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:41 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:42 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:42 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:49 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:52 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:16:54 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:17:00 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:17:03 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:03 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java
+2026.03.17 10:17:04 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:03 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:03 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:03 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/IPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/IPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/IPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/IPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/IPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/UserPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:07 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/UserPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/UserPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:07 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/UserPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:07 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/UserPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:08 INFO  no build target found for /com/google/common/collect/Sets.java. Using fallback presentation compiler.
+2026.03.17 10:17:09 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:09 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java
+2026.03.17 10:17:09 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:09 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:09 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:09 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:12 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:12 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:12 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:12 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:12 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:12 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:12 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:14 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:14 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:14 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java
+2026.03.17 10:17:14 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:17:14 WARN  Running javac-semanticdb failed for file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Output:
+
+2026.03.17 10:18:34 INFO  no build target found for /jakarta/servlet/ServletRequest.java. Using fallback presentation compiler.
+2026.03.17 10:18:46 INFO  no build target found for /jakarta/servlet/http/HttpServletRequest.java. Using fallback presentation compiler.
+2026.03.17 10:19:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/ShareResource.java. Using fallback presentation compiler.
+2026.03.17 10:19:30 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:20:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/IPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/UserPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:12 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:12 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java
+2026.03.17 10:20:12 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:12 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:12 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:12 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:12 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:14 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:14 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:14 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:14 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:14 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:15 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:14 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:14 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:15 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java
+2026.03.17 10:20:15 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:14 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:14 WARN  Running javac-semanticdb failed for file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Output:
+
+2026.03.17 10:20:15 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 10:20:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/listener/IIOProviderContextListener.java. Using fallback presentation compiler.
+2026.03.17 10:20:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/listener/IIOProviderContextListener.java. Using fallback presentation compiler.
+Mar 17, 2026 10:20:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1221
+2026.03.17 10:20:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/listener/IIOProviderContextListener.java. Using fallback presentation compiler.
+2026.03.17 10:20:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/listener/IIOProviderContextListener.java. Using fallback presentation compiler.
+2026.03.17 10:20:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/listener/IIOProviderContextListener.java. Using fallback presentation compiler.
+2026.03.17 10:20:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/listener/IIOProviderContextListener.java. Using fallback presentation compiler.
+2026.03.17 10:24:21 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/listener/IIOProviderContextListener.java. Using fallback presentation compiler.
+2026.03.17 10:26:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 10:26:13 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:28:29 WARN  Running javac-semanticdb failed for file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Output:
+
+2026.03.17 10:28:29 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:28:31 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+Mar 17, 2026 10:30:18 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.17 10:31:29 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:31:36 WARN  Running javac-semanticdb failed for file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Output:
+
+2026.03.17 10:31:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:32:08 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:32:08 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:32:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:33:33 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:33:35 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:33:35 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:34:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:36:50 WARN  Running javac-semanticdb failed for file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Output:
+
+2026.03.17 10:36:50 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 10:37:53 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.17 10:39:50 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 10:45:46 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:45:46 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java
+2026.03.17 10:45:46 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:45:46 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:45:46 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:45:46 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:45:46 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:45:46 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:45:47 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:45:47 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java. Using fallback presentation compiler.
+2026.03.17 10:49:08 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 10:49:08 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.17 11:02:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:28 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java
+2026.03.17 11:02:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:30 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:30 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:30 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:30 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:30 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:32 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:32 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:32 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:32 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:33 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:32 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:32 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:33 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:33 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:34 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:33 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:33 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:33 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:33 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:34 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:35 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:35 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:35 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:35 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+Mar 17, 2026 11:02:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1324
+2026.03.17 11:02:35 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:37 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:37 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:37 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:37 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:37 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:37 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:37 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:38 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:38 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:38 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:38 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:38 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:38 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:38 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:38 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:38 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:38 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:38 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:39 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:38 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:39 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:39 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+Mar 17, 2026 11:02:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1372
+2026.03.17 11:02:39 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:39 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:39 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:39 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:39 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:39 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java
+2026.03.17 11:02:39 WARN  Running javac-semanticdb failed for file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Output:
+
+2026.03.17 11:02:39 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:40 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:40 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:40 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:40 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:40 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java
+2026.03.17 11:02:40 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:02:40 WARN  Running javac-semanticdb failed for file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Output:
+
+2026.03.17 11:02:40 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:03:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:03:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:03:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:03:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+Mar 17, 2026 11:03:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1403
+2026.03.17 11:03:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:03:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:03:07 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:03:07 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:03:07 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:03:07 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:03:07 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:03:07 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:03:07 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:03:07 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:03:07 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:03:08 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:03:08 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:03:08 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java
+2026.03.17 11:03:08 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:03:08 WARN  Running javac-semanticdb failed for file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Output:
+
+2026.03.17 11:03:08 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 11:03:22 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:03:22 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java
+2026.03.17 11:03:22 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:03:35 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.17 11:05:18 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:05:31 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/UserResource.java. Using fallback presentation compiler.
+2026.03.17 11:05:31 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/docs/core/constant/ConfigType.java. Using fallback presentation compiler.
+2026.03.17 11:05:37 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:05:42 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/ConfigUtil.java. Using fallback presentation compiler.
+2026.03.17 11:06:40 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:06:40 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:06:42 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:06:42 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:06:43 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:06:43 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:06:43 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:06:43 WARN  Running javac-semanticdb failed for file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Output:
+
+2026.03.17 11:06:43 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:06:44 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:06:45 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:06:45 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:06:45 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:06:45 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:06:47 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+Mar 17, 2026 11:06:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1476
+2026.03.17 11:06:47 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:06:47 INFO  Created report: Optional[file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java]
+2026.03.17 11:06:47 INFO  empty definition using pc, found symbol in pc: _empty_/ConfigUtil#getConfigBooleanValue# (full report at: "/Users/yanmin/Documents/SE Lab/Teedy/.metals/.reports/metals-full/2026-03-17/r_empty-definition_11-06-47-573.md")
+2026.03.17 11:06:47 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:06:47 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:06:47 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:06:47 INFO  empty definition using pc, found symbol in pc: _empty_/ConfigUtil#getConfigBooleanValue# (full report at: "/Users/yanmin/Documents/SE Lab/Teedy/.metals/.reports/metals-full/2026-03-17/r_empty-definition_11-06-47-573.md")
+2026.03.17 11:06:47 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:06:47 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/ConfigUtil.java. Using fallback presentation compiler.
+2026.03.17 11:06:48 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/ConfigUtil.java. Using fallback presentation compiler.
+2026.03.17 11:06:48 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/ConfigUtil.java. Using fallback presentation compiler.
+2026.03.17 11:06:48 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/ConfigUtil.java. Using fallback presentation compiler.
+2026.03.17 11:06:48 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/ConfigUtil.java. Using fallback presentation compiler.
+2026.03.17 11:06:48 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/ConfigUtil.java. Using fallback presentation compiler.
+2026.03.17 11:09:49 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/ConfigUtil.java. Using fallback presentation compiler.
+2026.03.17 11:11:56 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:11:56 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java
+2026.03.17 11:11:56 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:11:56 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:11:56 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:11:56 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:11:56 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:11:56 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:13:08 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:13:08 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java
+2026.03.17 11:13:08 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:13:08 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:13:08 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:13:08 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:13:08 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:13:10 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+2026.03.17 11:13:11 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+Mar 17, 2026 11:25:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 17, 2026 11:25:40 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.17 12:03:32 INFO  Shutting down server
+2026.03.17 12:03:32 INFO  Memory monitor stopped
+2026.03.17 12:03:32 INFO  shutting down Metals
+2026.03.17 12:03:32 INFO  Exiting server
+2026.03.17 12:03:32 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:214)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2026.03.17 12:25:08 INFO  Started: Metals version 1.6.6 in folders '/Users/yanmin/Documents/SE Lab/Teedy' for client Visual Studio Code 1.111.0.
+2026.03.17 12:25:08 INFO  Memory monitor started
+2026.03.17 12:25:08 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.17 12:25:10 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 12:27:07 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java. Using fallback presentation compiler.
+2026.03.17 12:28:03 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/main/java/com/sismics/util/jpa/EMF.java. Using fallback presentation compiler.
+2026.03.17 14:01:10 INFO  Shutting down server
+2026.03.17 14:01:10 INFO  Memory monitor stopped
+2026.03.17 14:01:10 INFO  shutting down Metals
+2026.03.17 14:01:10 INFO  Exiting server
+2026.03.17 14:01:10 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:214)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2026.03.31 11:11:27 INFO  Started: Metals version 1.6.6 in folders '/Users/yanmin/Documents/SE Lab/Teedy' for client Visual Studio Code 1.112.0.
+2026.03.31 11:11:27 INFO  Memory monitor started
+2026.03.31 11:11:28 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.31 11:11:33 WARN  Build server is not auto-connectable.
+2026.03.31 11:11:33 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java
+2026.03.31 11:11:34 WARN  Running javac-semanticdb failed for file:///Users/yanmin/Documents/SE%20Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Output:
+
+2026.03.31 11:14:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/main/java/com/sismics/docs/rest/resource/AppResource.java. Using fallback presentation compiler.
+Mar 31, 2026 11:14:26 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 31, 2026 11:14:26 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 31, 2026 11:14:26 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.31 11:29:14 INFO  Detected new build tool in /Users/yanmin/Documents/SE Lab/Teedy
+Mar 31, 2026 11:39:18 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 31, 2026 11:39:18 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 31, 2026 11:39:18 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 31, 2026 1:40:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 31, 2026 3:13:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 31, 2026 3:45:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 01, 2026 11:20:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 01, 2026 11:21:00 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 01, 2026 11:21:00 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 01, 2026 11:21:00 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 01, 2026 11:21:00 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 01, 2026 11:21:00 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 01, 2026 11:21:00 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 01, 2026 11:21:00 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 01, 2026 11:21:00 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.01 11:21:01 INFO  Shutting down server
+2026.04.01 11:21:01 INFO  Memory monitor stopped
+2026.04.01 11:21:01 INFO  shutting down Metals
+2026.04.01 11:21:01 INFO  Exiting server

@@ -51,21 +51,21 @@ public final class EMF {
                 }
             };
             openHelper.open();
-            
+
             emfInstance = Persistence.createEntityManagerFactory("transactions-optional", getEntityManagerProperties());
-            
+
         } catch (Throwable t) {
             log.error("Error creating EMF", t);
         }
     }
-    
+
     private static Properties getEntityManagerProperties() {
         // Use properties file if exists
         try {
             URL hibernatePropertiesUrl = EMF.class.getResource("/hibernate.properties");
             if (hibernatePropertiesUrl != null) {
                 log.info("Configuring EntityManager from hibernate.properties");
-                
+
                 InputStream is = hibernatePropertiesUrl.openStream();
                 Properties properties = new Properties();
                 properties.load(is);
@@ -74,13 +74,13 @@ public final class EMF {
         } catch (IOException | IllegalArgumentException e) {
             log.error("Error reading hibernate.properties", e);
         }
-        
+
         // Use environment parameters
         String databaseUrl = System.getenv("DATABASE_URL");
         String databaseUsername = System.getenv("DATABASE_USER");
         String databasePassword = System.getenv("DATABASE_PASSWORD");
         String databasePoolSize = System.getenv("DATABASE_POOL_SIZE");
-        if(databasePoolSize == null) {
+        if (databasePoolSize == null) {
             databasePoolSize = "10";
         }
 
@@ -111,7 +111,7 @@ public final class EMF {
         props.put("hibernate.connection.pool_validation_interval", "5");
         return props;
     }
-    
+
     /**
      * Private constructor.
      */

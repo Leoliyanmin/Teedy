@@ -12,19 +12,19 @@ import java.util.Set;
  */
 public class AnonymousPrincipal implements IPrincipal {
     public static final String ANONYMOUS = "anonymous";
-    
+
     /**
      * User timezone.
      */
     private DateTimeZone dateTimeZone;
-    
+
     /**
      * Constructor of AnonymousPrincipal.
      */
     public AnonymousPrincipal() {
         // NOP
     }
-    
+
     @Override
     public String getId() {
         return null;
@@ -49,7 +49,7 @@ public class AnonymousPrincipal implements IPrincipal {
     public String getEmail() {
         return null;
     }
-    
+
     public void setDateTimeZone(DateTimeZone dateTimeZone) {
         this.dateTimeZone = dateTimeZone;
     }
@@ -63,4 +63,6 @@ public class AnonymousPrincipal implements IPrincipal {
     public boolean isGuest() {
         return false;
     }
+
+    // here we should add a button?
 }

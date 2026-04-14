@@ -7,7 +7,13 @@
   <artifactId>docs-parent</artifactId>
   <packaging>pom</packaging>
   <version>1.12-SNAPSHOT</version>
-
+  <url>https://sismics.github.io/docs/${project.version}/</url>
+  <distributionManagement>
+    <site>
+      <id>site</id>
+      <url>${project.url}</url>
+    </site>
+  </distributionManagement>
   <name>Docs Parent</name>
 
   <properties>
@@ -116,6 +122,12 @@
         <artifactId>jetty-maven-plugin</artifactId>
         <version>${org.eclipse.jetty.jetty-maven-plugin.version}</version>
       </plugin>
+
+      <!-- <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-site-plugin</artifactId>
+        <version>3.21.0</version>
+      </plugin> -->
     </plugins>
   </build>
 
