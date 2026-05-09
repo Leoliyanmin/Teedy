@@ -931,3 +931,207 @@ INFO: Unsupported notification method: $/setTrace
 2026.04.01 11:21:01 INFO  Memory monitor stopped
 2026.04.01 11:21:01 INFO  shutting down Metals
 2026.04.01 11:21:01 INFO  Exiting server
+2026.04.28 11:18:47 INFO  Started: Metals version 1.6.7 in folders '/Users/yanmin/Documents/SE Lab/Teedy' for client Visual Studio Code 1.116.0.
+2026.04.28 11:18:47 INFO  Memory monitor started
+2026.04.28 11:18:51 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.28 11:18:51 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+Apr 28, 2026 11:18:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Apr 28, 2026 11:18:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.04.28 11:18:51 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:18:51 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+Apr 28, 2026 11:18:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2026.04.28 11:18:51 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+Apr 28, 2026 11:18:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+Apr 28, 2026 11:18:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2026.04.28 11:18:52 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:18:52 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:18:52 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+Apr 28, 2026 11:18:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+2026.04.28 11:18:54 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:18:54 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java
+2026.04.28 11:18:54 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:18:54 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:18:54 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:18:57 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:18:57 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java
+2026.04.28 11:18:57 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:18:57 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:18:57 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:19:02 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:19:02 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java
+2026.04.28 11:19:02 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:19:02 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:19:02 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:19:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:19:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:19:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:19:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:19:38 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:21:39 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:28:27 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:28:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:28:56 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:29:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:29:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:29:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:29:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:29:07 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:29:09 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:29:09 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:29:16 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:29:16 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:29:41 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:29:45 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:29:51 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java
+2026.04.28 11:29:51 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:29:51 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:29:51 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:29:51 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:29:54 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:08 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java
+2026.04.28 11:30:08 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:08 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:10 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java
+2026.04.28 11:30:10 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:10 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:11 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java
+2026.04.28 11:30:11 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:11 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:11 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:12 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:14 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java
+2026.04.28 11:30:14 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:14 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:14 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:17 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java
+2026.04.28 11:30:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:21 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:21 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java
+2026.04.28 11:30:21 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:21 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:21 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:26 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:30 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:37 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:47 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:58 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:58 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:58 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java
+2026.04.28 11:30:58 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:30:58 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:31:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:31:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:31:17 WARN  no build target for: /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java
+2026.04.28 11:31:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:31:17 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:31:24 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:31:25 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:31:25 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:31:25 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:31:44 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:31:47 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:32:06 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:33:19 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestJsonUtil.java. Using fallback presentation compiler.
+2026.04.28 11:46:25 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/test/java/com/sismics/docs/rest/util/TestDocumentSearchCriteriaUtil.java. Using fallback presentation compiler.
+2026.04.28 11:46:26 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/test/java/com/sismics/docs/rest/util/TestDocumentSearchCriteriaUtil.java. Using fallback presentation compiler.
+Apr 28, 2026 11:46:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 292
+2026.04.28 11:46:25 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/test/java/com/sismics/docs/rest/util/TestDocumentSearchCriteriaUtil.java. Using fallback presentation compiler.
+Apr 28, 2026 11:46:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 295
+2026.04.28 11:46:25 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/test/java/com/sismics/docs/rest/util/TestDocumentSearchCriteriaUtil.java. Using fallback presentation compiler.
+Apr 28, 2026 11:46:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 301
+2026.04.28 11:46:25 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/test/java/com/sismics/docs/rest/util/TestDocumentSearchCriteriaUtil.java. Using fallback presentation compiler.
+2026.04.28 11:46:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/test/java/com/sismics/docs/rest/TestAppResource.java. Using fallback presentation compiler.
+Apr 28, 2026 11:46:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 306
+2026.04.28 11:46:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/test/java/com/sismics/docs/rest/TestAppResource.java. Using fallback presentation compiler.
+2026.04.28 11:46:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/test/java/com/sismics/docs/rest/TestAppResource.java. Using fallback presentation compiler.
+Apr 28, 2026 11:46:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 309
+2026.04.28 11:46:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/test/java/com/sismics/docs/rest/TestAppResource.java. Using fallback presentation compiler.
+Apr 28, 2026 11:46:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 315
+2026.04.28 11:46:32 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/test/java/com/sismics/docs/rest/TestAppResource.java. Using fallback presentation compiler.
+2026.04.28 11:46:50 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/test/java/com/sismics/docs/rest/TestAppResource.java. Using fallback presentation compiler.
+2026.04.28 11:47:37 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/test/java/com/sismics/docs/rest/TestAppResource.java. Using fallback presentation compiler.
+2026.04.28 11:49:26 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/test/java/com/sismics/docs/rest/util/TestDocumentSearchCriteriaUtil.java. Using fallback presentation compiler.
+2026.04.28 11:49:28 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-web/src/test/java/com/sismics/docs/rest/TestAppResource.java. Using fallback presentation compiler.
+2026.04.28 11:53:35 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:53:35 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:53:35 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:53:35 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:53:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:53:36 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:53:45 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:53:49 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:53:49 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:58:03 INFO  Shutting down server
+2026.04.28 11:58:03 INFO  Memory monitor stopped
+2026.04.28 11:58:03 INFO  shutting down Metals
+2026.04.28 11:58:03 INFO  Exiting server
+2026.04.28 11:58:03 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:214)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2026.04.28 11:58:31 INFO  Started: Metals version 1.6.7 in folders '/Users/yanmin/Documents/SE Lab/Teedy' for client Visual Studio Code 1.116.0.
+2026.04.28 11:58:31 INFO  Memory monitor started
+2026.04.28 11:58:35 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.28 11:58:35 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:58:37 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:58:37 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:58:46 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:58:46 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 11:58:50 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+Apr 28, 2026 11:58:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+2026.04.28 11:58:59 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 12:09:05 INFO  no build target found for /Users/yanmin/Documents/SE Lab/Teedy/docs-core/src/test/java/com/sismics/util/TestImageUtil.java. Using fallback presentation compiler.
+2026.04.28 13:59:14 INFO  Shutting down server
+2026.04.28 13:59:14 INFO  Memory monitor stopped
+2026.04.28 13:59:14 INFO  shutting down Metals
+2026.04.28 13:59:14 INFO  Exiting server
+2026.04.28 13:59:14 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:214)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2026.05.09 11:08:38 INFO  Started: Metals version 1.6.7 in folders '/Users/yanmin/Documents/SE Lab/Teedy' for client Visual Studio Code 1.116.0.
+2026.05.09 11:08:38 INFO  Memory monitor started
+2026.05.09 11:08:38 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+May 09, 2026 11:11:18 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
