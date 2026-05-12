@@ -4,6 +4,7 @@ pipeline {
         maven 'Mavn-3.9'
     }
     environment {
+        PATH = "/opt/homebrew/bin:/usr/local/bin:${env.PATH}"
         DOCKER_HUB_CREDENTIALS = credentials('leoliyanmin')
         DOCKER_IMAGE = 'leoliyanmin/teedy'
         DOCKER_TAG = "${env.BUILD_NUMBER}"
