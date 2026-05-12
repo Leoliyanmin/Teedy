@@ -17,30 +17,27 @@ pipeline {
         }
         stage('Build Docker Image') {
             steps {
-                script {
-                    docker.build("${env.DOCKER_IMAGE}:${env.DOCKER_TAG}")
-                }
+                sh 'docker build -t ${DOCKER_IMAGE}:${DOCKER_TAG} -t ${DOCKER_IMAGE}:latest .'
             }
         }
         stage('Push to Docker Hub') {
             steps {
-                script {
-                    docker.withRegistry('https://registry.hub.docker.com', 'leoliyanmin') {
-                        docker.image("${env.DOCKER_IMAGE}:${env.DOCKER_TAG}").push()
-                        docker.image("${env.DOCKER_IMAGE}:${env.DOCKER_TAG}").push('latest')
-                    }
-                }
+                sh """
+                    echo "\$DOCKER_HUB_CREDENTIALS_PSW" | docker login -u "\$DOCKER_HUB_CREDENTIALS" --password-stdin
+                    docker push ${DOCKER_IMAGE}:${DOCKER_TAG}
+                    docker push ${DOCKER_IMAGE}:latest
+                """
             }
         }
         stage('Run Three Containers') {
             steps {
-                script {
-                    sh 'docker stop teedy-8082 teedy-8083 teedy-8084 || true'
-                    sh 'docker rm teedy-8082 teedy-8083 teedy-8084 || true'
-                    docker.image("${env.DOCKER_IMAGE}:${env.DOCKER_TAG}").run('--name teedy-8082 -d -p 8082:8080')
-                    docker.image("${env.DOCKER_IMAGE}:${env.DOCKER_TAG}").run('--name teedy-8083 -d -p 8083:8080')
-                    docker.image("${env.DOCKER_IMAGE}:${env.DOCKER_TAG}").run('--name teedy-8084 -d -p 8084:8080')
-                }
+                sh """
+                    docker stop teedy-8082 teedy-8083 teedy-8084 || true
+                    docker rm teedy-8082 teedy-8083 teedy-8084 || true
+                    docker run -d --name teedy-8082 -p 8082:8080 ${DOCKER_IMAGE}:${DOCKER_TAG}
+                    docker run -d --name teedy-8083 -p 8083:8080 ${DOCKER_IMAGE}:${DOCKER_TAG}
+                    docker run -d --name teedy-8084 -p 8084:8080 ${DOCKER_IMAGE}:${DOCKER_TAG}
+                """
             }
         }
     }
