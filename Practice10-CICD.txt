@@ -1,0 +1,35 @@
+Practice10-CICD with Jenkins and Docker.md
+
+2026-05-12
+
+[CS304] Practice 10 - CI/CD with Jenkins and Docker
+Deadline: Check onsite on or before week 14 lab.
+
+Task:
+1. Build a docker image by Jenkins
+2. Push to Docker hub by Jenkins;
+
+；
+
+3. Run three containers by Jenkins, the port are: 8082,8083,8084.
+
+Evaluation:
+You should show us:
+
+：
+
+1. your Jenkins running result
+
+2. Your docker hub repository:
+
+1/2
+
+Practice10-CICD with Jenkins and Docker.md
+
+2026-05-12
+
+3. your three containers:
+
+2/2
+
+

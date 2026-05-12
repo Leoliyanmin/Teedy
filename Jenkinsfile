@@ -3,55 +3,49 @@ pipeline {
     tools {
         maven 'Mavn-3.9'
     }
+    environment {
+        DOCKER_HUB_CREDENTIALS = credentials('leoliyanmin')
+        DOCKER_IMAGE = 'leoliyanmin/teedy'
+        DOCKER_TAG = "${env.BUILD_NUMBER}"
+    }
     stages {
-        stage('Clean') {
+        stage('Maven Build') {
             steps {
-                sh 'mvn clean'
+                sh 'mvn -Pprod -DskipTests clean install'
             }
         }
-        stage('Compile') {
+        stage('Build Docker Image') {
             steps {
-                sh 'mvn compile'
+                script {
+                    docker.build("${env.DOCKER_IMAGE}:${env.DOCKER_TAG}")
+                }
             }
         }
-        stage('Test') {
+        stage('Push to Docker Hub') {
             steps {
-                sh 'mvn test -Dmaven.test.failure.ignore=true'
+                script {
+                    docker.withRegistry('https://registry.hub.docker.com', 'DOCKER_HUB_CREDENTIALS') {
+                        docker.image("${env.DOCKER_IMAGE}:${env.DOCKER_TAG}").push()
+                        docker.image("${env.DOCKER_IMAGE}:${env.DOCKER_TAG}").push('latest')
+                    }
+                }
             }
         }
-        stage('PMD') {
+        stage('Run Three Containers') {
             steps {
-                sh 'mvn pmd:pmd'
-            }
-        }
-        stage('JaCoCo') {
-            steps {
-                sh 'mvn jacoco:report'
-            }
-        }
-        stage('Javadoc') {
-            steps {
-                sh 'mvn javadoc:javadoc'
-            }
-        }
-        stage('Site') {
-            steps {
-                sh 'mvn site'
-            }
-        }
-        stage('Package') {
-            steps {
-                sh 'mvn package -DskipTests'
+                script {
+                    sh 'docker stop teedy-8082 teedy-8083 teedy-8084 || true'
+                    sh 'docker rm teedy-8082 teedy-8083 teedy-8084 || true'
+                    docker.image("${env.DOCKER_IMAGE}:${env.DOCKER_TAG}").run('--name teedy-8082 -d -p 8082:8080')
+                    docker.image("${env.DOCKER_IMAGE}:${env.DOCKER_TAG}").run('--name teedy-8083 -d -p 8083:8080')
+                    docker.image("${env.DOCKER_IMAGE}:${env.DOCKER_TAG}").run('--name teedy-8084 -d -p 8084:8080')
+                }
             }
         }
     }
-
     post {
         always {
-            archiveArtifacts artifacts: '**/target/site/**/*.*', fingerprint: true
-            archiveArtifacts artifacts: '**/target/**/*.jar', fingerprint: true
-            archiveArtifacts artifacts: '**/target/**/*.war', fingerprint: true
-            junit '**/target/surefire-reports/*.xml'
+            sh 'docker ps --filter "name=teedy"'
         }
     }
 }
