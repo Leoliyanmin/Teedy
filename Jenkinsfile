@@ -5,7 +5,6 @@ pipeline {
     }
     environment {
         PATH = "/opt/homebrew/bin:/usr/local/bin:${env.PATH}"
-        DOCKER_HUB_CREDENTIALS = credentials('leoliyanmin')
         DOCKER_IMAGE = 'leoliyanmin/teedy'
         DOCKER_TAG = "${env.BUILD_NUMBER}"
     }
@@ -22,11 +21,17 @@ pipeline {
         }
         stage('Push to Docker Hub') {
             steps {
-                sh """
-                    echo "\$DOCKER_HUB_CREDENTIALS_PSW" | docker login -u "\$DOCKER_HUB_CREDENTIALS" --password-stdin
-                    docker push ${DOCKER_IMAGE}:${DOCKER_TAG}
-                    docker push ${DOCKER_IMAGE}:latest
-                """
+                withCredentials([usernamePassword(
+                    credentialsId: 'leoliyanmin',
+                    usernameVariable: 'DH_USER',
+                    passwordVariable: 'DH_PASS'
+                )]) {
+                    sh '''
+                        echo "$DH_PASS" | docker login -u "$DH_USER" --password-stdin
+                        docker push leoliyanmin/teedy:$BUILD_NUMBER
+                        docker push leoliyanmin/teedy:latest
+                    '''
+                }
             }
         }
         stage('Run Three Containers') {
